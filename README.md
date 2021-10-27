@@ -1,4 +1,5 @@
 # nanoos
+## Archeved for reference purpose only. not guaranteed to compile and/or work for modern systems
 Automatically exported from code.google.com/p/nanoos
 Please Contribute to this project
 
